@@ -13,7 +13,7 @@ const projects = [
     description:
       "A full-stack MVC web application to manage organizations, projects, and categories, built from scratch with server-side rendering and PostgreSQL.",
     technologies: ["Node.js", "Express", "EJS", "PostgreSQL"],
-    link: "https://github.com/your-username/community-service-projects",
+    link: "https://github.com/BryanW03/wdd430-portfolio.git",
   },
 ];
 
